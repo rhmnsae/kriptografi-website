@@ -17,3 +17,6 @@
     5. DB_PORT=3306 / sesuaikan port mysql anda
     6. DB_DATABASE=kriptografi / sesuaikan nama database anda
     9. APP_ENV=local / production / testing (sesuaikan dengan lingkungan anda)
+
+### Running a website
+    php artisan serve
